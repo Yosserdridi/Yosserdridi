@@ -14,10 +14,10 @@
 🤝 Open to: **Open-source collaboration**, **Hackathons**, and **Freelance projects**  
 💬 Ask me about: `Java`, `React`, `MySQL`, `Spring`, `Agile`, `UML`  
 📬 Contact me:  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ton-profil)  
-linkedin.com/in/yosser-dridi
+📬 Contact me:  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yosser-dridi)  
+🔗 linkedin.com/in/yosser-dridi  
 ✉️ yosserdridi@esprit.tn | yosserachour02@gmail.com
-
 ---
 
 ### 🛠️ Tech Stack & Tools
