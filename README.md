@@ -9,7 +9,7 @@
 
 ### 🌟 About Me
 
-🎓 I’m a 2nd-year engineering student at **ESPRIT**, specializing in **Software Architecture Engineering**  
+🎓 I’m a 3nd-year engineering student at **ESPRIT**, specializing in **Software Architecture Engineering**  
 🔍 Currently exploring: `JavaScript`, `React`, `Spring Boot`, `DevOps`  
 🤝 Open to: **Open-source collaboration**, **Hackathons**, and **Freelance projects**  
 💬 Ask me about: `Java`, `React`, `MySQL`, `Spring`, `Agile`, `UML`  
